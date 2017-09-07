@@ -142,7 +142,4 @@ distinct from developer/API documentation, this requires basic usability insight
 
 # Journals for publishing software descriptions
 
-For proper credit of the value of software development in science, it is still necessary to turn software into citable publication. This list is meant to provide developers with possible outlets:
-
-* Journal of Open Research Software: <https://openresearchsoftware.metajnl.com/>
-* Journal of Open Source Software: <http://joss.theoj.org/>
+For proper credit of the value of software development in science, it is still necessary to turn software into citable publication. The [Software Sustainability Institute](https://www.software.ac.uk/) provides a list of journals that developers could consider: <https://www.software.ac.uk/which-journals-should-i-publish-my-software>
