@@ -7,8 +7,9 @@ This repo is meant as a collective resource, where **any contributions** from a 
 For contributions, please cosider these evolving guidelines. We want to:
 
 * avoid duplications (quickly search the README.md before starting on your contribution)
-* make one pull request per suggestion (this keeps the merge history as useful as possible)
 * keep descriptions short and clear, with correct spelling (make it easy for the readers)
+* wherever good overviews already exist, please include links to them here instead of their contents
+* make one pull request per suggestion (this keeps the merge history as useful as possible)
 * for proprietary/commercial tools, check if there's a good open alternative (sustainable software development and `open`ness imply each other, I'd think, but commercial offerings might nevertheless be the best current solution out there)
 
 Looking forward to your contributions!
