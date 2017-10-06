@@ -68,6 +68,7 @@ very diverse range of testing (unit tests, regression tests, continuous integrat
 * a general testing guide with useful Wikipedia links: <https://www.software.ac.uk/resources/guides/testing-your-software>
 * unit tests with language specific frameworks: <https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks>
 * continuous integration of full projects: <https://en.wikipedia.org/wiki/Continuous_integration>
+* article with many examples of continuous integration platforms: Silver A. Collaborative software development made easy. Nature News. 2017;550: 143. doi:10.1038/550143a
 
 ## Tools
 
