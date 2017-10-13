@@ -50,10 +50,11 @@ this spans a wide range, from small in-line comments explaining bits of code to 
 
 ## Reading
 
-* https://mozillascience.github.io/codeReview/intro.html
+* Overview, including some good links: https://mozillascience.github.io/codeReview/intro.html
 * Petre M, Wilson G. Code Review For and By Scientists. arXiv:14075648 [cs]. 2014; Available: http://arxiv.org/abs/1407.5648
 1.
 * MacLeod L, Greiler M, Storey M-A, Bird C, Czerwonka J. Code Reviewing in the Trenches: Understanding Challenges and Best Practices. IEEE Software. 2017; Available: http://ieeexplore.ieee.org/abstract/document/7950877/
+* blog about code review experiences in neuroscience, containing important recommendations: https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html
 
 ## Tools
 
