@@ -8,6 +8,7 @@ The following structure is merely a suggestion and should change whenever though
 
 ## Reading and learning
 
+* A nice gitbook on Open Science, with a good overview of and nice references for Software Development / Data Science: https://pfern.github.io/OSODOS/gitbook/
 * Wilson G, Aruliah DA, Brown CT, Hong NPC, Davis M, Guy RT, et al. Best Practices for Scientific Computing. PLOS Biol. 2014;12: e1001745. doi:10.1371/journal.pbio.1001745
 * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK. Good enough practices in scientific computing. PLOS Computational Biology. 2017;13: e1005510. doi:10.1371/journal.pcbi.1005510
 * Silva LB, Jimenez RC, Blomberg N, Luis Oliveira J. General guidelines for biomedical software development. F1000Research. 2017;6: 273. doi:10.12688/f1000research.10750.1
